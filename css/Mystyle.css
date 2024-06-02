@@ -222,3 +222,20 @@
     .social-icons .social-icon:hover {
       background-color: #585858;
     }
+    .background123{
+      background-image: url(../images/bgphoto.webp);
+      background-size: cover; /* 調整背景圖片大小以填滿整個節點 */
+      background-position: center; /* 將背景圖片置中 */
+      max-width: 100% !important;
+    }
+
+    .custom-box {
+      border: 2px solid #ccc;
+      padding: 20px;
+      border-radius: 50px;
+      background-color: rgba(0, 0, 0, 0.3);
+  }
+
+  .daviddavid{
+    color: white;
+  }
